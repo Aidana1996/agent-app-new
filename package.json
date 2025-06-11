@@ -1,8 +1,8 @@
 {
-  "name": "agent-app",
+  "name": "agent-app-new",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aidana1996.github.io/agent-app",
+  "homepage": "https://Aidana1996.github.io/agent-app-new",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
